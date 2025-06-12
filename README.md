@@ -28,5 +28,5 @@ Analitzarem la tectònica de plaques per interpretar l'estructura i la dinàmica
 - Conceptes bàsics sobre evolució, mecanismes evolutius i interpretació de l'evolució biològica.
 
 
-## Avalaució
+## Avaluació
 - Hueso/Tieso/Queso/Seso
