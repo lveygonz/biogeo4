@@ -1,9 +1,3 @@
 remote_theme: "mmistakes/minimal-mistakes"
-title: Biologia i Geologia 4
-description: "A site using the Minimal Mistakes Jekyll theme"
-author: "lveygonz"
-
-# Optional but recommended settings:
+title: "Biologia i Geologia 4"
 minimal_mistakes_skin: "default"
-plugins:
-  - jekyll-include-cache
