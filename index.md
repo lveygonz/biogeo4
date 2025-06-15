@@ -1,6 +1,7 @@
 ---
 layout: homw
 title: A house is not a home
+excerpt: "Benvinguts al quart curs de Biologia i Geologia (ESO)"
 ---
 
 # Biologia i Geologia 4
