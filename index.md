@@ -1,5 +1,6 @@
 ---
 title: Biologia i Geologia 4
+layout: default
 ---
 
 
