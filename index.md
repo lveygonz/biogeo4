@@ -1,5 +1,5 @@
 ---
-layout: homw
+layout: home
 title: A house is not a home
 excerpt: "Benvinguts al quart curs de Biologia i Geologia (ESO)"
 ---
